@@ -14,6 +14,7 @@
 3. 语音消息备份（`>=2.6.6.28`）
 4. 消息发送接口（`>=2.6.6.44`）
 5. 接受消息接口，3种消息（`>=2.6.7.40`)
+6. 新增：<font color="red">**打破微信100M文件发送限制，支持任意大小文件发送（`>=2.6.8.65`）**</font>，使用方式见[更新日志](docs/update.md)。
 
 **`WeChatSDK`目前已经开放`C++`、`Python`、`Java`、`C#`接口。** 具体请看[WeChatSDK开发指南](docs/sdk.md)。
 
@@ -39,6 +40,10 @@
 **感谢**
 
 1. [https://github.com/martona/mhook](https://github.com/martona/mhook)
+
+**交流**
+
+QQ group: [753894145](https://jq.qq.com/?_wv=1027&k=5ww6tlB)
 
 ### 声明
 
